@@ -177,7 +177,7 @@ POST /api/chat
 GET /api/chat/history?sender_id=u1001
 ```
 
-电商服务新增导购检索接口：
+导购入口
 
 ```http
 GET /products/search?keyword=手表&category=&min_price=100&max_price=500&limit=5
